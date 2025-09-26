@@ -1,4 +1,4 @@
-GeospatialFCVcollateral – Fork by Deepa Shukla
+GeospatialFCVcollateral – Fork by Dr Deepa Shukla
 This repository is my fork of the World Bank’s GeospatialFCVcollateral project. The original project curates geospatial and ICT resources to support Fragility, Conflict, and Violence (FCV) operations.
 🔎 Purpose of this Fork
 To explore applications of AI/ML with geospatial datasets in FCV contexts.
